@@ -1,5 +1,6 @@
 # snakegame
 p5 js simple snake game
+
  download the files 
 
 run index.html on any browser
